@@ -1,0 +1,1 @@
+import{o,c as n,r}from"./index-ba899fcd.js";const h={__name:"NavbarThemeSwitcher",setup(c){const e=[{name:"light",icon:"tabler-sun-high"},{name:"dark",icon:"tabler-moon"}];return(a,m)=>{const t=r("ThemeSwitcher");return o(),n(t,{themes:e})}}};export{h as default};
